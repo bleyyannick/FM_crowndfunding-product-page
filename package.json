@@ -1,8 +1,9 @@
 {
-  "name": "crowndfounding-product-page",
+  "name": "crowndfunding-product-page",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://bleyyannick/.github.io/FM_crowndfunding-product-page/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
